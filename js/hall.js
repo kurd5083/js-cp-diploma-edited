@@ -1,0 +1,2 @@
+value.hall()
+value.config()
