@@ -5,7 +5,7 @@
 - HTML
 
 **Ссылка на GitHub Pages website** 
-
+https://kurd5083.github.io/js-cp-diploma-edited/
 
 **Описание файла JS**
 - [createReq](./md/createReq.md)
